@@ -9,7 +9,7 @@ yarn create next-app [project-name] -e https://github.com/d-exclaimation/next-ap
 
 or 
 
-npx create-next-app [project-name] -e https://github.com/d-exclaimation/next-app-kit/tree/npm
+npx create-next-app [project-name] -e https://github.com/d-exclaimation/next-app-kit/tree/npm --use-npm 
 ```
 
 ```ts
